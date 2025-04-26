@@ -18,6 +18,6 @@ I'm Daisy! From 🎓 Electronic Engineering → 🍰 Dessert shop owner → 💻
 ### Let's connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/daisy-choi-248306339)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square)](https://daisy-portfolio-puce.vercel.app/)
-[![ThreeBarFifty](https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square)](https://daisy-threebarfifty.vercel.app/)
+[![ThreeBarFifty](https://img.shields.io/badge/ThreeBarFifty-Visit-green?style=flat-square)](https://daisy-threebarfifty.vercel.app/)
 ---
 
