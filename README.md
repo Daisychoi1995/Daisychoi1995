@@ -15,7 +15,7 @@ I'm Daisy! From 🎓 Electronic Engineering → 🍰 Dessert shop owner → 💻
 
 ---
 
-### Tech Stack that *made a difference*:
+### Tech Stack:
 - ⚙️ **React & TypeScript**: My go-to for building clean, dynamic UIs that are both efficient and scalable.
 - ⚡ **Next.js**: A game changer for building full-stack applications with seamless server-side rendering, fast page loads, and dynamic routing.
 - 🗄️ **PostgreSQL**: The database that taught me to think about data in ways that scale with real world applications.
