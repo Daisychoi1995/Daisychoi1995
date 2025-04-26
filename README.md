@@ -15,6 +15,17 @@ I'm Daisy! From 🎓 Electronic Engineering → 🍰 Dessert shop owner → 💻
 
 ---
 
+### Tech Stack that *made a difference*:
+- ⚙️ **React & TypeScript**: My go-to for building clean, dynamic UIs that are both efficient and scalable.
+- ⚡ **Next.js**: A game changer for building full-stack applications with seamless server-side rendering, fast page loads, and dynamic routing.
+- 🗄️ **PostgreSQL**: The database that taught me to think about data in ways that scale with real world applications.
+- 🔧 **Node.js & Express**: My foundation for creating fast, robust backends that power applications.
+- 🌐 **.NET & C#**: My entry point into creating enterprise level applications with robust backends, solid architecture, and scalable APIs.
+- 🎨 **Tailwind CSS**: Simplified styling and helped me focus on building, not writing endless CSS.
+
+
+---
+
 ### Let's connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/daisy-choi-248306339)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square)](https://daisy-portfolio-puce.vercel.app/)
